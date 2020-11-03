@@ -8,7 +8,7 @@ http://github.com/yonik/java_util
 Javascript source
 https://cimi.io/murmurhash3js-revisited/
 
-To run test (default `10_000` iterations)
+To run test (default `100_000` iterations)
 `./run.sh`
 
 (to change number of iterations, modify REPL.java and constant `ITERATIONS`)
