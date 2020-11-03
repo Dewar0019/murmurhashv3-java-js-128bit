@@ -12,3 +12,4 @@ To run test (default `10_000` iterations)
 `./run.sh`
 
 (to change number of iterations, modify REPL.java and constant `ITERATIONS`)
+https://github.com/Dewar0019/murmurhashv3-java-js-128bit/blob/main/src/REPL.java#L11
