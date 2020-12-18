@@ -1,4 +1,5 @@
-const murmurhash = require('./murmurhashv3_128x64.js');
+// const murmurhash = require('./murmurhashv3_128x64.js');
+const murmurhash = require('./murmurhashv3_128x64_WEB.js');
 
 if (process.argv.length < 4) {
     console.log('Usage: node ' + process.argv[1] + ' <inputText.txt>' + ' <outputHash.txt>');
